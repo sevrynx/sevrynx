@@ -1,60 +1,75 @@
-## Hi there 👋
+## 👋 Hi, I'm Neebs
 
-I'm **Neebs**, a Flutter developer focused on building secure, cross-platform mobile applications with clean architecture and great user experience.
+### 🚀 About Me
+Flutter developer focused on building **secure, cross-platform mobile applications** using Flutter and Dart.  
+I enjoy creating clean, reliable apps with strong attention to **performance, privacy, and user experience**.
+
+Currently working on a privacy-first product with end-to-end encryption.
 
 ---
 
-## 🚀 About Me
-- 📱 Cross-platform mobile developer (Android & iOS)
-- 🔐 Interested in privacy-focused and secure applications
-- 🧠 Enjoy turning ideas into reliable, real-world products
+## 🌐 Socials
+<p>
+  <a href="https://github.com/neebs2021">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
-
-### Mobile & Languages
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-</p>
-
-### Backend & APIs
-<p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PocketBase-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat"/>
-</p>
-
-### Tools & Platforms
-<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-</p>
-
-### Workflow & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"/>
 </p>
 
+
 ---
 
-## 📌 Current Project
+## 🔐 Current Project
 
-### 🔐 Syncly
-A **private, cross-platform reminders & note-taking app** focused on **end-to-end encryption** and user privacy.
+### Syncly
+A **private, cross-platform reminders and note-taking app** built with **end-to-end encryption** to keep user data fully secure.
 
-**Key features**
-- 📱 Built with Flutter for Android & iOS
+**Highlights**
+- 📱 Flutter-based (Android & iOS)
 - 🔒 End-to-end encrypted notes & reminders
 - ☁️ Secure cloud sync
-- 🧩 Clean and minimal UX
+- 🎯 Minimal and focused UX
 
-**Tech used:** Flutter, Dart, Firebase, REST APIs
+**Tech:** Flutter, Dart, Firebase, REST APIs
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/neebs2021
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=neebs2021&show_icons=true&hide_title=true&theme=dark"/>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neebs2021&theme=dark"/>
+</p>
+
+---
+
+## 💬 Dev Quote
+> “Code is read more often than it is written.”
