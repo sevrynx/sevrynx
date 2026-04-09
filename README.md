@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Oneeb
+## 👋 Hi
 
 ### 🚀 About Me
 Flutter developer focused on building **secure, cross-platform mobile applications** using Flutter and Dart.  
