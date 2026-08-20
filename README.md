@@ -1,10 +1,8 @@
 ## 👋 Hi
-
 ### 🚀 About Me
-Flutter developer focused on building **secure, cross-platform mobile applications** using Flutter and Dart.  
-I enjoy creating clean, reliable apps with strong attention to **performance, privacy, and user experience**.
-
-Currently working on a privacy-first product with end-to-end encryption.
+Embedded Systems Engineer & Flutter Developer building **secure, cross-platform software** and **bare-metal firmware**.
+I care about clean, reliable code under real constraints — memory, power, real-time, and reliability — whether it's running on a microcontroller or a phone.
+Currently working on a privacy-first product with end-to-end encryption, and deepening my embedded systems fundamentals (STM32, ARM Cortex-M, bare-metal, Assembly).
 
 ---
 
@@ -40,8 +38,16 @@ Currently working on a privacy-first product with end-to-end encryption.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bare--Metal-333333?style=flat"/>
+  <img src="https://img.shields.io/badge/Proteus-1A5276?style=flat"/>
 </p>
-
 
 ---
 
@@ -60,11 +66,21 @@ A **private, cross-platform reminders and note-taking app** built with **end-to-
 
 ---
 
+## ⚙️ Embedded Systems
+
+Building embedded fundamentals from the ground up — bare-metal STM32 (ARM Cortex-M), Assembly, and low-level C/C++ — alongside ESP32 projects and circuit simulation in Proteus.
+
+- 🔧 STM32 (CubeIDE, HAL & bare-register), ARM Cortex-M
+- 📟 ESP32 development
+- ⚡ Bare-metal firmware, Assembly
+- 🧪 Proteus circuit simulation
+
+---
+
 ## 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=neebs2021&show_icons=true&hide_title=true&theme=dark"/>
 </p>
-
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neebs2021&theme=dark"/>
 </p>
@@ -72,4 +88,4 @@ A **private, cross-platform reminders and note-taking app** built with **end-to-
 ---
 
 ## 💬 Dev Quote
-> “Code is read more often than it is written.”
+> "Code is read more often than it is written."
