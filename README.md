@@ -53,16 +53,16 @@ Currently working on a privacy-first product with end-to-end encryption, and dee
 
 ## 🔐 Current Project
 
-### Syncly
-A **private, cross-platform reminders and note-taking app** built with **end-to-end encryption** to keep user data fully secure.
+### Cipheron
+Ente fork that swaps self-hosted backend for **end-to-end encrypted** storage using **OneDrive & Google Drive**
 
 **Highlights**
-- 📱 Flutter-based (Android & iOS)
-- 🔒 End-to-end encrypted notes & reminders
+- 📱 Flutter-based (Android, iOS, Web and Desktop)
+- 🔒 End-to-end encrypted
 - ☁️ Secure cloud sync
 - 🎯 Minimal and focused UX
 
-**Tech:** Flutter, Dart, Firebase, REST APIs
+**Tech:** Flutter, Dart, Rust, Supabase
 
 ---
 
