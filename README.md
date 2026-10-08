@@ -79,10 +79,10 @@ Building embedded fundamentals from the ground up — bare-metal STM32 (ARM Cort
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=neebs2021&show_icons=true&hide_title=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sevrynx&show_icons=true&hide_title=true&theme=dark"/>
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neebs2021&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sevrynx&theme=dark"/>
 </p>
 
 ---
