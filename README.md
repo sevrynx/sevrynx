@@ -54,7 +54,7 @@ Currently working on a privacy-first product with end-to-end encryption, and dee
 ## 🔐 Current Project
 
 ### Cipheron
-Ente fork that swaps self-hosted backend for **end-to-end encrypted** storage using **OneDrive & Google Drive**
+An **end-to-end encrypted** photos & videos gallery using stoage from **OneDrive & Google Drive**
 
 **Highlights**
 - 📱 Flutter-based (Android, iOS, Web and Desktop)
