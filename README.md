@@ -54,7 +54,7 @@ Currently working on a privacy-first product with end-to-end encryption, and dee
 ## 🔐 Current Project
 
 ### Cipheron
-An **end-to-end encrypted** photos & videos gallery using stoage from **OneDrive & Google Drive**
+Secure **end-to-end encrypted** photos & videos gallery using **OneDrive / Google Drive** storage.
 
 **Highlights**
 - 📱 Flutter-based (Android, iOS, Web and Desktop)
