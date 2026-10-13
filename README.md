@@ -6,15 +6,6 @@ Currently working on a privacy-first product with end-to-end encryption, and dee
 
 ---
 
-## 🌐 Socials
-<p>
-  <a href="https://github.com/neebs2021">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
