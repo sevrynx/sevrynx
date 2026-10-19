@@ -42,18 +42,22 @@ Currently working on a privacy-first product with end-to-end encryption, and dee
 
 ---
 
+
 ## 🔐 Current Project
 
-### Cipheron
-Secure **end-to-end encrypted** photos & videos gallery using **OneDrive / Google Drive** storage.
+### Wristboy
+
+Open-source wrist computer with a retro green terminal UI, offline maps, a compass and vitals tracking — built from scratch and documented publicly as it happens.
 
 **Highlights**
-- 📱 Flutter-based (Android, iOS, Web and Desktop)
-- 🔒 End-to-end encrypted
-- ☁️ Secure cloud sync
-- 🎯 Minimal and focused UX
 
-**Tech:** Flutter, Dart, Rust, Supabase
+- 🦀 Rust no_std firmware on the ESP32-S3 (esp-hal + Embassy)
+- 🗺️ Offline maps with live GPS position, compass heading and saved markers
+- ❤️ Heart rate and SpO2 tracking
+- 🔓 Fully open: firmware, KiCad PCBs and enclosure
+
+**Tech:** Rust, ESP32, KiCad
+
 
 ---
 
